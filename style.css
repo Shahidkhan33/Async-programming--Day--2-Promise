@@ -1,0 +1,25 @@
+body{
+    background: rgb(139, 146, 114);
+    background: linear-gradient(90deg, rgba(6, 230, 80, 0.705) 35%, rgba(132, 226, 218, 0.767) 75% );
+   }
+  
+  .card-header{
+    background-color: rgb(12, 12, 12);
+    color: white;
+    text-transform: uppercase;
+  } 
+
+  .card{
+    color: black;
+     background: rgb(170, 168, 169);
+     background: radial-gradient(circle, rgb(201, 199, 199) 20%, rgb(102, 101, 100) 70%); 
+  }
+
+  .card-text{
+    text-align: center;
+    font-size: 18px;
+  }
+  
+  img{
+    border: 1px solid white;
+  }
